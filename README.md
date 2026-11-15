@@ -1,5 +1,7 @@
 # ShelfScout
 
+> ShelfScout started as a 3-hour hackathon project in San Francisco on 13 November 2026. Until the rename, this repo was `vid-t/hackathon-sf`.
+
 **Which pet products should *your* store stock?** Paste an online pet store's link. ShelfScout reads the store, then ranks eight pet-supply niches for it using 40,000 real Amazon reviews, each labelled by a System One decision model. Every number links back to the reviews behind it.
 
 Amazon gives sellers niche-level review insights, but only for selling on Amazon. ShelfScout gives independent stores (Shopify and others) a fit verdict for *their* store, built on counted evidence instead of a chatbot's opinion.
