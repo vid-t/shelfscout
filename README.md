@@ -1,6 +1,6 @@
 # ShelfScout
 
-> ShelfScout was built in 3 hours for the [AIE x MLH Hackathon @ Code Summit](https://luma.com/aiecodesummithackathon) in San Francisco on 13 November 2026. Until the rename, this repo was `vid-t/hackathon-sf`.
+> ShelfScout was built in 3 hours for the [AIE x MLH Hackathon @ Code Summit](https://luma.com/aiecodesummithackathon) in San Francisco on 13 November 2026.
 
 **Which pet products should *your* store stock?** Paste an online pet store's link. ShelfScout reads the store, then ranks eight pet-supply niches for it using 40,000 real Amazon reviews, each labelled by a System One decision model. Every number links back to the reviews behind it.
 
